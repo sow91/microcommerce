@@ -1,2 +1,0 @@
-# microcommerce
-application microservice microcommerce
